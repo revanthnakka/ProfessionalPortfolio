@@ -1,0 +1,6 @@
+Navigate to below path
+C:\Program Files\PostgreSQL\12\bin
+
+Issue below command
+psql -U postgres
+eVa

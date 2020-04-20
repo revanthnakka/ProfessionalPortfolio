@@ -1,0 +1,23 @@
+Python
+
+I used python scripting extensively for all challenges i solved at work. For instance i used python to integrate Jenkins and Automation & Django web portal & Performance testing
+
+Jama-Jira
+
+I integrated Jira API (Test management tool) with Jama API (Requirement management tool) and helped management to populate trace-ability matrix with test executions and status.
+
+Jenkins
+
+I setup CI/CD Test infrastructure(Jenkins) for many projects. I also migrated legacy jenkins jobs to Pipeline standards and also scaled jenkins jobs for several projects.
+
+Selenium
+
+I automated front end of a web application using Selenium framework, with Pytest framework and integrated with Jenkins using VMware infrastructure as nodes.
+
+Ranorex
+
+I automated front end of windows applications using ranorex tool(C#), Specflow used to write BDD scenarios and integrated with Jenkins using AWS infrastructure as nodes.
+
+Django
+
+I used django web framework to build a web portal, so that whole team can review QA metrics to find out the status of Regression trend, Release status of projects.

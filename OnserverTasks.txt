@@ -1,0 +1,21 @@
+1) Copy zip file
+2) Unzip code using "unzip Revanth-project.zip"
+3) Cd to project and install (pip install pillow,pip install django,pip install --only-binary :all: mysqlclient)
+4) python manage.py makemigrations
+5) python manage.py migrate
+6) python manage.py createsuperuser
+login to admin portal and create jobs
+
+7) python manage.py collectstatic
+8) Virtualenv-djangoportal
+9) DB connections
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'revanthnakka$django',
+        'USER': 'revanthnakka',
+        'PASSWORD': 'djangoportal',
+        'HOST': 'revanthnakka.mysql.pythonanywhere-services.com',
+    }
+}
